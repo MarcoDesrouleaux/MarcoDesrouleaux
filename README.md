@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/MarcoDesrouleaux/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MarcoDesrouleaux/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Azure VM Launchpad: A Step-by-Step Visual Guide to Virtual Machine Creation](https://github.com/MarcoDesrouleaux/azure-virtual-machines)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MarcoDesrouleaux/configure-ad) (Pending...)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MarcoDesrouleaux/azure-network-protocols) (Pending...)
 
