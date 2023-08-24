@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Azure VM Launchpad: A Step-by-Step Visual Guide to Virtual Machine Creation](https://github.com/MarcoDesrouleaux/azure-virtual-machines)
+  - [Linking VMs in Azure: A Practical Connection Guide](https://github.com/MarcoDesrouleaux/Azure-VMs-Connection)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MarcoDesrouleaux/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MarcoDesrouleaux/configure-ad) (Pending...)
 - <b>osTicket (Help Desk Ticketing System)</b>
