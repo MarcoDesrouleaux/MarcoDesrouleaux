@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Azure VM Launchpad: A Step-by-Step Visual Guide to Virtual Machine Creation](https://github.com/MarcoDesrouleaux/azure-virtual-machines)
-  - [Azure VM Connectivity Tester: A Step-by-Step Guide to Verifying Virtual Machine Connections](https://github.com/MarcoDesrouleaux/Azure-Network-Diagnostics)
+  - [Azure VM Connectivity Tester: A Step-by-Step Guide to Verifying Virtual Machine Connections on the Same VNet](https://github.com/MarcoDesrouleaux/Azure-Network-Diagnostics)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MarcoDesrouleaux/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MarcoDesrouleaux/configure-ad) (Pending...)
 - <b>osTicket (Help Desk Ticketing System)</b>
