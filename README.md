@@ -1,4 +1,4 @@
-<h1>Hello there, I'm Marco. I'm an <a href="https://linkedin.com/in/MarcoDesrouleaux">IT Professional</a>💻.</h1>
+<h1>Hello there, I'm Marco. I'm a <a href="https://linkedin.com/in/MarcoDesrouleaux">Cloud Engineer Student</a>💻.</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
